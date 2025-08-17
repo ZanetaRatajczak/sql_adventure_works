@@ -12,5 +12,6 @@ SELECT
 
 FROM Customer
 
-WHERE EmailAddress NOT REGEXP '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$';</sql><current_tab id="0"/></tab_sql></sqlb_project>
+WHERE EmailAddress NOT REGEXP '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$';
+
 
